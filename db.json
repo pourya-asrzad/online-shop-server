@@ -11,9 +11,14 @@
       ],
       "description": "در یک تعریف ساده و مختصر کنتور برق به صورت کلی وسیله‌ای است که مقدار مصرف انرژی الکتریکی در یک ساختمان را محاسبه می‌کند و بر اساس واحد کلیو وات ساعت به مصرف کننده نشان می‌دهد. نحوه کار کنتورهای برق به این صورت است که با عبور جریان الکتریکی از سیم پیچ کنتور یک میدان مغناطیسی به وجود می آید که شدت و جهت این میدان به میزان جریان عبوری بستگی دارد و بر اساس همین موضوع میزان مصرف انرژی توسط کنتور برق محاسبه می‌شود. کنتورهای برق فرعی بعد از کنتور اصلی و مادر نصب می‌شوند تا اطلاعات جامعتر و تفکیک شده هر مصرف کننده مشخص شود. استفاده از این نوع کنتورهای برق نیازی به مجوز از اداره برق استان ندارد. کنتور برق فرعی تک فاز چند تعرفه ای دیجیتال کنتور سازی ایران برای محاسبه مصرف برق تک فاز ساختمان‌های مختلف مناسب است.",
       "createdAt": 1643373068134,
-      "price": 400000,
-      "quantity": 8,
-      "store": "admin"
+      "price": "50000",
+      "quantity": "10",
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 80,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 2,
@@ -27,8 +32,13 @@
       "description": "دارای موتور تک سیلندر با توان ۳ کیلو وات یا ۴ اسب بخار موتور با مکانیزم چهار زمانه سیستم خنک کننده به کمک جریان هوا جهت تبادل گرما دو خروجی AC و یک خروجی DC دارای VFT ( نمایشگر دیجیتال ) جهت نمایش ولتاژ خروجی ، فرکانس و زمان کارکرد",
       "createdAt": 1643373068134,
       "price": 1607251,
-      "quantity": 8,
-      "store": "admin"
+      "quantity": 0,
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 6
+      }
     },
     {
       "id": 3,
@@ -42,8 +52,13 @@
       "description": "از جمله یخچال فریزرهای صندوقی باکیفیت و بادوام تولید شده به وسیله شرکت تولیدی برفاب، فریزر صندوقی مدل CF-310L می باشد. طراحی زیبا و هوشمندانه این محصول در کنار کارایی و دوام بالا، نیازها و توقعات مصرف کننده را به خوبی برآورده می سازد. متاثر از تغییر سبک زندگی، بسیاری از خانه ها با کمبود فضا و محدودیت جا مواجه هستند. برخورداری فریزر صندوقی مدل CF-310L از ابعاد مناسب و جمع و جور 840x555x1110، فضای کمی از محیط آشپزخانه را اشغال می نماید.",
       "createdAt": 1643373068134,
       "price": 10200000,
-      "quantity": 8,
-      "store": "admin"
+      "quantity": 0,
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 4,
@@ -58,7 +73,12 @@
       "createdAt": 1643373068134,
       "price": 540000,
       "quantity": 10,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 5,
@@ -73,7 +93,12 @@
       "createdAt": 1643373068134,
       "price": 10550000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 30
+      }
     },
     {
       "id": 6,
@@ -88,7 +113,12 @@
       "createdAt": 1643373068134,
       "price": 3720000,
       "quantity": 45,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 80,
+        "packing": 60
+      }
     },
     {
       "id": 7,
@@ -103,7 +133,12 @@
       "createdAt": 1643373068134,
       "price": 628200000,
       "quantity": 2,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 80
+      }
     },
     {
       "id": 8,
@@ -116,9 +151,14 @@
       ],
       "description": "موتور برق فوق مدل «HG1220-IG» نام دارد. شرکت کره‌ای «هیوندای» (Hyundai) این دستگاه را تولید می‌کند. این دستگاه انرژی مورد نیاز خود را از بنزین تامین کرده و به‌این طریق انرژی الکتریکی تولید می‌کند. حجم موتور دستگاه فوق 60 سی سی است و از قدرتی برابر 1.6 اسب بخار برخوردار است. مخزن سوخت این موتور برق ظرفیتی 4.1 لیتری دارد. با کمک این دستگاه می‌توانید انرژی الکتریکی را به دو صورت جریان AC و DC دریافت کنید. خروجی برق AC این موتور برق با درپوش ضد آبی محافظت می‌شود و از ولتاژی برابر 230 ولت برخوردار است. خروجی برق DC این دستگاه نیز ولتاژی 12 ولتی دارد و شدت جریان آن 4 آمپر است. قدرت خروجی این دستگاه 2200 وات است. این موتور برق دو حالت برای روشن شدن دارد. یکی از حالت‌ها توان خروجی کمتری دارد و فشاری به دستگاه وارد نمی‌کند و حالت دوم برای برخورداری از حداکثر توان دستگاه مورد استفاده قرار می‌گیرد. این دستگاه باکمک سه لامپ ال ای دی، کاربر را از وضعیت توان خروجی، اورلود و هشدار روغن آگاه می‌سازد.",
       "createdAt": 1643373068134,
-      "price": 21980000,
-      "quantity": 8,
-      "store": "admin"
+      "price": "21970000",
+      "quantity": "0",
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 30
+      }
     },
     {
       "id": 9,
@@ -133,7 +173,12 @@
       "createdAt": 1643373068134,
       "price": 225000000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 80,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 10,
@@ -147,8 +192,13 @@
       "description": "وجود یک وسیله استاندارد، ایمن، و محکم برای جابه جایی اجناس سنگین در برخی مکان ها، امری ست حائز اهمیت. اماکنی نظیر کارخانه ها، کارگاه ها، فروشگاه ها و پارکینگ ها و... .چرخ باربر 2W.Max با ظرفیت حمل 250 کیلوگرم برای بارهایی که قابل حمل برای انسان نیست بسیار مناسب ست و کار را برای شما راحت کرده. چرخ های دایکاستی این محصول با بلبرینگ های مرغوب، باعث دوام محصول فوق در فشار های بالا شده. از ویژگی های دیگر باربر دستی مذکور، رنگ الکترو استاتیک آن بوده که به راحتی از بین نمی رود و دچار زنگ زدگی نمی شود. وزن این گاری از نمونه های مشابه کمتر بوده و برابر با 18 کیلوگرم است که همین امر باعث سهولت در جابه جایی آن می شود. این محصول حتی برای کامیونت ها و ترانزیت ها که بارهایی برای جابه جایی به فروشگاه ها و یا انبار کارخانه ها دارند مناسب بوده و به سرعت و سهولت جابه جایی اجناس آنها کمک می کند. برخی اجناس فوق سنگین برای جابه جایی حتی با وجود چند نیروی انسانی بسیار آزار دهنده و مشکل آفرین هستند و وجود یک باربر دستی با چنین قابلیتی شما را از خطر آسیب دیدگی دور می کند. به عنوان مثال برای جابه جایی گاوصندوق های کوچک و متوسط از این محصول استفاده می شود.",
       "createdAt": 1643373068134,
       "price": 1240000,
-      "quantity": 8,
-      "store": "admin"
+      "quantity": 0,
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 15,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 11,
@@ -163,7 +213,12 @@
       "createdAt": 1643373068134,
       "price": 319200,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 90
+      }
     },
     {
       "id": 12,
@@ -178,7 +233,12 @@
       "createdAt": 1643373068134,
       "price": 152130,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 40
+      }
     },
     {
       "id": 13,
@@ -193,7 +253,12 @@
       "createdAt": 1643373068134,
       "price": 210000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 10
+      }
     },
     {
       "id": 14,
@@ -207,8 +272,13 @@
       "description": "دارای تیغه اره مانند برای بریدن گیاهان و ... دارای ابزار کلنگ مانند برای کندن و زیرو رو کردن خاک دارای قطب نما در انتها دسته دارای کیف پارچه ای قابل حمل",
       "createdAt": 1643373068134,
       "price": 90000,
-      "quantity": 8,
-      "store": "admin"
+      "quantity": 0,
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 20,
+        "packing": 60
+      }
     },
     {
       "id": 15,
@@ -223,7 +293,12 @@
       "createdAt": 1643373068134,
       "price": 29800,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 80
+      }
     },
     {
       "id": 16,
@@ -238,7 +313,12 @@
       "createdAt": 1643373068134,
       "price": 17900,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 70
+      }
     },
     {
       "id": 17,
@@ -253,7 +333,12 @@
       "createdAt": 1643373068134,
       "price": 80000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 90,
+        "packing": 60
+      }
     },
     {
       "id": 18,
@@ -268,7 +353,12 @@
       "createdAt": 1643373068134,
       "price": 3000000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 19,
@@ -283,7 +373,12 @@
       "createdAt": 1643373068134,
       "price": 166800,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 20,
@@ -298,7 +393,12 @@
       "createdAt": 1643373068134,
       "price": 189000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 21,
@@ -313,7 +413,12 @@
       "createdAt": 1643373068134,
       "price": 69000000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 90,
+        "packing": 60
+      }
     },
     {
       "id": 22,
@@ -328,7 +433,12 @@
       "createdAt": 1643373068134,
       "price": 3000000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 100
+      }
     },
     {
       "id": 23,
@@ -343,7 +453,12 @@
       "createdAt": 1643373068134,
       "price": 300000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 80,
+        "packing": 60
+      }
     },
     {
       "id": 24,
@@ -359,7 +474,12 @@
       "price": 58000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 5
+      "Discount": 5,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 25,
@@ -375,7 +495,12 @@
       "price": 179000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 5
+      "Discount": 5,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 90
+      }
     },
     {
       "id": 26,
@@ -391,7 +516,12 @@
       "price": 10500000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 5
+      "Discount": 5,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 27,
@@ -407,7 +537,12 @@
       "price": 37000000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 5
+      "Discount": 5,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 28,
@@ -422,7 +557,12 @@
       "createdAt": 1643373068134,
       "price": 2870000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 100,
+        "packing": 60
+      }
     },
     {
       "id": 29,
@@ -437,7 +577,12 @@
       "createdAt": 1643373068134,
       "price": 38300,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 80
+      }
     },
     {
       "id": 30,
@@ -452,7 +597,12 @@
       "createdAt": 1643373068134,
       "price": 70000,
       "quantity": 8,
-      "store": "admin"
+      "store": "admin",
+      "fillStrip": {
+        "pricevalue": 80,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 31,
@@ -468,7 +618,12 @@
       "price": 1550000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 40
+      }
     },
     {
       "id": 32,
@@ -484,7 +639,12 @@
       "price": 3217000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 10
+      "Discount": 10,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 40,
+        "packing": 60
+      }
     },
     {
       "id": 33,
@@ -500,7 +660,12 @@
       "price": 335000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 5
+      "Discount": 5,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 34,
@@ -516,7 +681,12 @@
       "price": 1782000,
       "quantity": 5,
       "store": "admin",
-      "Discount": 9
+      "Discount": 9,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 60,
+        "packing": 60
+      }
     },
     {
       "id": 35,
@@ -532,7 +702,12 @@
       "price": 3910000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 100
+      }
     },
     {
       "id": 36,
@@ -548,7 +723,12 @@
       "price": 580000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 20
+      "Discount": 20,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 90
+      }
     },
     {
       "id": 37,
@@ -564,7 +744,12 @@
       "price": 399000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 5,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 38,
@@ -580,7 +765,12 @@
       "price": 220000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 39,
@@ -596,7 +786,12 @@
       "price": 358000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 40,
@@ -612,7 +807,12 @@
       "price": 2035000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 41,
@@ -628,7 +828,12 @@
       "price": 1000000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 12
+      "Discount": 12,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 42,
@@ -644,7 +849,12 @@
       "price": 2599000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 43,
@@ -660,7 +870,12 @@
       "price": 1739700,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 44,
@@ -676,7 +891,12 @@
       "price": 112000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 45,
@@ -692,7 +912,12 @@
       "price": 1849900,
       "quantity": 8,
       "store": "admin",
-      "Discount": 10
+      "Discount": 10,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 46,
@@ -708,7 +933,12 @@
       "price": 1764000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 100,
+        "packing": 60
+      }
     },
     {
       "id": 47,
@@ -724,7 +954,12 @@
       "price": 649000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 80,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 48,
@@ -740,7 +975,12 @@
       "price": 503800,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 49,
@@ -756,7 +996,12 @@
       "price": 470000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 10
+      }
     },
     {
       "id": 50,
@@ -772,7 +1017,12 @@
       "price": 2590000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 51,
@@ -788,7 +1038,12 @@
       "price": 4100000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 52,
@@ -804,7 +1059,12 @@
       "price": 3990000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 30,
+        "packing": 60
+      }
     },
     {
       "id": 53,
@@ -820,7 +1080,12 @@
       "price": 34577000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 54,
@@ -836,7 +1101,12 @@
       "price": 18315000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 55,
@@ -850,9 +1120,14 @@
       "description": "اگر به دنبال تهیه یک هدفون بی‌سیم گیمینگ هستید، هدفون بلوتوثی مدل K55 به‌عنوان یکی از جدیدترین گزینه‌های موجود در بازار ارزش بررسی را دارد. این مدل با ابعادی کوچک تولید شده است. ابعاد و وزن کم آن، جابه‌جایی این وسیله و استفاده طولانی‌مدت از آن را آسان می‌کند و باعث خستگی گوش‌ها نخواهد شد. این مدل برای اتصال به دستگاه‌ به بلوتوث نسخه 5.0 مجهز شده است و در مدت زمان اندکی، اتصال با گوشی موبایل اندروید یا ios شما برقرار خواهد شد. هدفون بی سیم K55 دارای یک میکروفون با کیفیت است و این ویژگی، آن را برای مکالمه مناسب می‌سازد. از ویژگی‌های اصلی این محصول محفظه نگهدارنده یا همان کیس آن است. این کیس قابلیت شارژ هدفون را دارد. برای شارژ آن کافی است از درگاه USB-C تعبیه شده بر روی کیس و کابل شارژ درون بسته‌بندی استفاده کنید. گفتنی است باتری 400 میلی‌آمپر ساعتی این هدفون در حدود 4-6 ساعت مکالمه و 4-6 ساعت پخش موسیقی را پاسخ‌گو خواهد بود.",
       "createdAt": 1643373068134,
       "price": 45600000,
-      "quantity": 8,
+      "quantity": 0,
       "store": "admin",
-      "Discount": 10
+      "Discount": 10,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 56,
@@ -868,7 +1143,12 @@
       "price": 339000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 57,
@@ -884,7 +1164,12 @@
       "price": 14010000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 58,
@@ -900,7 +1185,12 @@
       "price": 1370000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 59,
@@ -916,7 +1206,12 @@
       "price": 13230000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 60,
@@ -932,7 +1227,12 @@
       "price": 18917500,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 61,
@@ -948,7 +1248,12 @@
       "price": 14400000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 62,
@@ -964,7 +1269,12 @@
       "price": 1690000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 63,
@@ -980,7 +1290,12 @@
       "price": 1045000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 20
+      "Discount": 20,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 30
+      }
     },
     {
       "id": 64,
@@ -996,7 +1311,12 @@
       "price": 1740000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 65,
@@ -1012,7 +1332,12 @@
       "price": 2890000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 66,
@@ -1028,7 +1353,12 @@
       "price": 3100000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 67,
@@ -1044,7 +1374,12 @@
       "price": 939000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 68,
@@ -1060,7 +1395,12 @@
       "price": 600000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 69,
@@ -1076,7 +1416,12 @@
       "price": 8700000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 10
+      "Discount": 10,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 70,
@@ -1091,7 +1436,12 @@
       "price": 9000000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 71,
@@ -1107,7 +1457,12 @@
       "price": 517000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 72,
@@ -1123,7 +1478,12 @@
       "price": 3500000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 73,
@@ -1139,7 +1499,12 @@
       "price": 1160000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 74,
@@ -1155,7 +1520,12 @@
       "price": 1121000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 75,
@@ -1171,7 +1541,12 @@
       "price": 1719000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 90
+      }
     },
     {
       "id": 76,
@@ -1187,7 +1562,12 @@
       "price": 275000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 77,
@@ -1203,7 +1583,12 @@
       "price": 200000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 78,
@@ -1219,7 +1604,12 @@
       "price": 900000000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 79,
@@ -1235,7 +1625,12 @@
       "price": 150000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 80,
@@ -1251,7 +1646,12 @@
       "price": 64000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 13
+      "Discount": 13,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 81,
@@ -1267,7 +1667,12 @@
       "price": 880000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 82,
@@ -1283,7 +1688,12 @@
       "price": 90000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 83,
@@ -1299,7 +1709,12 @@
       "price": 50980,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 84,
@@ -1315,7 +1730,12 @@
       "price": 1223000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 85,
@@ -1331,7 +1751,12 @@
       "price": 604000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 30
+      }
     },
     {
       "id": 86,
@@ -1347,7 +1772,12 @@
       "price": 174000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 87,
@@ -1363,7 +1793,12 @@
       "price": 255000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 80,
+        "packing": 60
+      }
     },
     {
       "id": 88,
@@ -1379,7 +1814,12 @@
       "price": 389000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 89,
@@ -1395,7 +1835,12 @@
       "price": 1750000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 45
+      }
     },
     {
       "id": 90,
@@ -1411,7 +1856,12 @@
       "price": 157000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 91,
@@ -1427,7 +1877,12 @@
       "price": 275000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 92,
@@ -1443,7 +1898,12 @@
       "price": 1900000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 20
+      "Discount": 20,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 93,
@@ -1459,7 +1919,12 @@
       "price": 1370000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 94,
@@ -1475,7 +1940,12 @@
       "price": 6269550,
       "quantity": 8,
       "store": "admin",
-      "Discount": 10
+      "Discount": 10,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 80
+      }
     },
     {
       "id": 95,
@@ -1491,7 +1961,12 @@
       "price": 800000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 80
+      }
     },
     {
       "id": 97,
@@ -1507,7 +1982,12 @@
       "price": 1000000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 40,
+        "packing": 60
+      }
     },
     {
       "id": 98,
@@ -1523,7 +2003,12 @@
       "price": 3240000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 99,
@@ -1539,7 +2024,12 @@
       "price": 55000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 60
+      }
     },
     {
       "id": 100,
@@ -1555,7 +2045,12 @@
       "price": 37900,
       "quantity": 8,
       "store": "admin",
-      "Discount": 10
+      "Discount": 10,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 101,
@@ -1571,7 +2066,12 @@
       "price": 33000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 18
+      "Discount": 18,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 102,
@@ -1587,7 +2087,12 @@
       "price": 33000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 103,
@@ -1603,7 +2108,12 @@
       "price": 200000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 104,
@@ -1619,7 +2129,12 @@
       "price": 23600,
       "quantity": 8,
       "store": "admin",
-      "Discount": 2
+      "Discount": 2,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 105,
@@ -1635,7 +2150,12 @@
       "price": 55000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 106,
@@ -1651,7 +2171,12 @@
       "price": 285000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 107,
@@ -1667,7 +2192,12 @@
       "price": 383000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 108,
@@ -1683,7 +2213,12 @@
       "price": 383000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 109,
@@ -1699,7 +2234,12 @@
       "price": 38580,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 110,
@@ -1715,7 +2255,12 @@
       "price": 33920,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 111,
@@ -1731,7 +2276,12 @@
       "price": 18670,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 112,
@@ -1747,7 +2297,12 @@
       "price": 38580,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 113,
@@ -1762,7 +2317,12 @@
       "price": 49600,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 114,
@@ -1778,7 +2338,12 @@
       "price": 61500,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 115,
@@ -1794,7 +2359,12 @@
       "price": 32500,
       "quantity": 8,
       "store": "admin",
-      "Discount": 10
+      "Discount": 10,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 15
+      }
     },
     {
       "id": 116,
@@ -1810,7 +2380,12 @@
       "price": 50000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 30
+      }
     },
     {
       "id": 117,
@@ -1826,7 +2401,12 @@
       "price": 44600,
       "quantity": 8,
       "store": "admin",
-      "Discount": 5
+      "Discount": 5,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 15
+      }
     },
     {
       "id": 118,
@@ -1842,7 +2422,12 @@
       "price": 1488000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 5
+      "Discount": 5,
+      "fillStrip": {
+        "pricevalue": 90,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 119,
@@ -1858,7 +2443,12 @@
       "price": 359000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 5
+      "Discount": 5,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 40,
+        "packing": 20
+      }
     },
     {
       "id": 120,
@@ -1874,7 +2464,12 @@
       "price": 1387000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 5
+      "Discount": 5,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 90,
+        "packing": 20
+      }
     },
     {
       "id": 121,
@@ -1890,7 +2485,12 @@
       "price": 750000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 5
+      "Discount": 5,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 12
+      }
     },
     {
       "id": 122,
@@ -1906,7 +2506,12 @@
       "price": 411500,
       "quantity": 8,
       "store": "admin",
-      "Discount": 10
+      "Discount": 10,
+      "fillStrip": {
+        "pricevalue": 70,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 123,
@@ -1922,7 +2527,12 @@
       "price": 2500000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 40,
+        "quality": 60,
+        "packing": 20
+      }
     },
     {
       "id": 124,
@@ -1938,7 +2548,12 @@
       "price": 173000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 40,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 125,
@@ -1954,7 +2569,12 @@
       "price": 64900,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 40,
+        "quality": 50,
+        "packing": 20
+      }
     },
     {
       "id": 126,
@@ -1970,7 +2590,12 @@
       "price": 5744500,
       "quantity": 8,
       "store": "admin",
-      "Discount": 19
+      "Discount": 19,
+      "fillStrip": {
+        "pricevalue": 40,
+        "quality": 90,
+        "packing": 20
+      }
     },
     {
       "id": 127,
@@ -1986,10 +2611,36 @@
       "price": 585000,
       "quantity": 8,
       "store": "admin",
-      "Discount": 0
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 50,
+        "quality": 90,
+        "packing": 15
+      }
     },
     {
       "id": 128,
+      "category": 3,
+      "subcategory": 12,
+      "name": "ادو پرفیوم مردانه اسکلاره مدل creed aventus حجم 105 میلی لیتر به همراه عطر جیبی مردانه اسکلاره مدل creed aventus حجم 30 میلی لیتر",
+      "image": [
+        " https://dkstatics-public.digikala.com/digikala-products/7d7affe16128ab4ae99cd0e700daa19929cda024_1664611533.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90 ",
+        " https://dkstatics-public.digikala.com/digikala-products/7f28425600608311c3157bafc5f1c68cc0e09562_1664611536.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90 "
+      ],
+      "description": "نسبت به هزینه بوی خوبی داره ماندگاریش هم خیلی خوبه ",
+      "createdAt": 1643373068134,
+      "price": 585000,
+      "quantity": 8,
+      "store": "golam",
+      "Discount": 0,
+      "fillStrip": {
+        "pricevalue": 50,
+        "quality": 90,
+        "packing": 15
+      }
+    },
+    {
+      "id": 129,
       "category": 3,
       "subcategory": 12,
       "name": "برس حرارتی جیمی مدل GM-2972 ",
@@ -2002,54 +2653,12 @@
       "price": 585000,
       "quantity": 8,
       "store": "golam",
-      "Discount": 0
-    },
-    {
-      "category": "4",
-      "subcategory": "14",
-      "name": "محافظ کیبورد + بستنی",
-      "image": [
-        "fc36022160df6e7e16da11416a79e9e9",
-        "a1723e57c2b896cbc82218af88166470",
-        "24fc367ed6b493d8cead4092c52844d2"
-      ],
-      "description": "شما با خرید یک محافظ کیبورد دارای یک بستنی خواهید بود",
-      "createdAt": 1675090885737,
-      "price": 120000,
-      "quantity": 3,
-      "store": "admin",
-      "id": 129
-    },
-    {
-      "category": "6",
-      "subcategory": "24",
-      "Discount": 5,
-      "name": "کتاب  + بستنی ",
-      "image": [
-        "604956f2137f17581a7ed8b4ee3ae991",
-        "b3514dbf8bd6022ec9af534e4a120e42"
-      ],
-      "description": "با خرید کتاب هم دانا شوید و هم دارای بستنی شوید",
-      "createdAt": 1675093516169,
-      "price": 104000,
-      "quantity": 4,
-      "store": "admin",
-      "id": 130
-    },
-    {
-      "category": "9",
-      "subcategory": "33",
       "Discount": 0,
-      "name": "دوچرخه ژیتان (اصل)",
-      "image": [
-        "957801feac1177d41e005350eeb64f3b"
-      ],
-      "description": "با خرید این محصول یک دوچرخه سوار حرفه ای شوید این دوچرخه 24 دنده دارد و کوهی است مثل بز کوهی",
-      "createdAt": 1675107050378,
-      "price": 9000000,
-      "quantity": 1,
-      "store": "admin",
-      "id": 131
+      "fillStrip": {
+        "pricevalue": 50,
+        "quality": 90,
+        "packing": 15
+      }
     }
   ],
   "category": [

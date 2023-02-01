@@ -13,7 +13,6 @@ const AUTH_JWT_REFRESH_TOKEN_SECRET = "REFRESH_TOKEN_TOP-SECRET";
 const AUTH_JWT_OPTIONS = { expiresIn: 60 * 60 };
 const refreshTokenExpire = "1d";
 const accessTokenExpire = "5h";
-
 // TODO: vaghti token nis, 200 mide
 // TODO: vaghti token nist, invalid nade (login api)
 // TODO: besorat pishfarz token baraye har api niaz nabashe vali baraye ye seri api niaz bash be sorat dasti set she
